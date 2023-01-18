@@ -1,5 +1,5 @@
 # Set the local repository path
-$localRepoPath = "C:\path\to\local\repository"
+$localRepoPath = "."
 
 # Change the directory to the local repository
 cd $localRepoPath
