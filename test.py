@@ -22,7 +22,6 @@ def get_folder_hash(folder):
 current_hash = get_folder_hash(folder)
 
 while True:
-    time.sleep(10)
     new_hash = get_folder_hash(folder)
     if new_hash != current_hash:
         # Changes detected
