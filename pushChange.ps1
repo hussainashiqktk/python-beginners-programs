@@ -11,4 +11,4 @@ git add .
 git commit -m "Commit message"
 
 # Push the changes to the remote repository
-git push origin master
+git push origin main
