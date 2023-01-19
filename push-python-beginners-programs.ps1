@@ -1,11 +1,9 @@
-
-
 # Set the local and remote repository paths
-$localRepo = "G:\My GitHub Repos\python-beginners-program"
-$remoteRepo = "https://github.com/hussainashiqktk/python-beginners-programs"
+#$localRepo = "G:\My GitHub Repos\python-beginners-program"
+
 
 # Change to the local repository directory
-cd $localRepo
+#cd $localRepo
 
 # Add all changes to the repository
 git add .
