@@ -3,3 +3,4 @@ This repository contains beginner-friendly Python programs for learning the basi
 
 1. Number Reverser
 2. Random Password Generator
+3. Google Dictionary
