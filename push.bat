@@ -1,5 +1,5 @@
 :: Set the path to the local repository
-set repo_path=.
+set repo_path="G:\My GitHub Repos\python-beginners-programs"
 
 :: Change to the local repository directory
 cd %repo_path%
